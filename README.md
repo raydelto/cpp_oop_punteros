@@ -1,4 +1,4 @@
-#Ejemplo POO en C++con Punteros
+#Ejemplo POO en C++ con Punteros
 
 Un simple ejemplo de POO en C++ utilizando punteros.
 
